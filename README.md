@@ -1,4 +1,4 @@
-# UXM
+# Ultimate x Melee
 
 Ultimate x Melee(UXM) is an overhaul of Super Smash Bros. Ultimate that aims to bring Melee to Ultimate.
 If you want to contribute to UXM, pull requests are welcome!
